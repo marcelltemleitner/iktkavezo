@@ -1,0 +1,43 @@
+
+.navbar-fixed { 
+
+    height: 100px;
+}
+
+.navbar { font-family: pike !important; letter-spacing: 1px; font-variant:small-caps;}
+
+.nav-link-active{
+    -webkit-transform: scaleY(0.8);
+    transform: scaleY(0.8);
+    font-size: large;
+    letter-spacing: 1;
+
+}
+
+.nav-link-active:hover {
+    color: 	#47A4CC!important;
+    }
+
+    .navbar-nav > li{
+        padding-left: 10px;
+
+      }
+
+    .odebb >li{
+        padding-left: 100px;
+        text-align: right;
+    }
+
+.img {
+    position:absolute ;
+}
+body{
+    background-color: red;
+ }
+ .px3 {
+    padding-top: 1000px;
+ }
+
+ .nav-item-odebb {
+    margin-left: 400px;
+ }
